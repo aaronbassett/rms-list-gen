@@ -544,6 +544,7 @@ borntohonk
 banderlog
 bpm2772
 bprunevi
+bwajtr
 axceron
 urza9814
 thompsbrian
@@ -553,6 +554,7 @@ bronybro
 Bronzu
 bcattaneo
 brunofrra
+brjsp
 braoult
 bubuntoid
 buckket
@@ -1249,6 +1251,7 @@ bamboovir
 huipvandenende
 hwulfmeyer
 i-cant-git
+i-hate-nicknames
 i-zu
 ic-scm
 ianmacd
@@ -1491,6 +1494,7 @@ KaksoispisteDede
 Syndamia
 JerryPopi
 OdinPreston
+KamilKowalski157
 ska80
 TediCreations
 kapunik
@@ -1839,6 +1843,7 @@ trurle
 maxnest0x0
 grep0
 shrimpful
+arhinex
 Viiprogrammer
 Mzheldin
 Maxim-Zhukov
@@ -2839,6 +2844,7 @@ kwasd
 vmarkovtsev
 axilirator
 DrWatsonne
+v4dkou
 xtrahigh
 Vadim-Burns
 dexpl
@@ -2979,6 +2985,7 @@ vvrein
 crypto-universe
 vlanbridgeadd
 vlrmt
+vlstus
 vnepogodin
 voietsma
 vojtechsokol
@@ -3120,6 +3127,7 @@ yurand
 Yusuf-Kozan
 yw662
 ywmmmw
+yxor
 Z572
 Zaedus
 HawaiinPizza
