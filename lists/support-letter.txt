@@ -595,6 +595,7 @@ CH23-
 deloachcd
 ackr-8
 ChanoSan
+Rinroli
 fuhye
 scxr
 cndkhuong
@@ -791,6 +792,7 @@ torwalds
 nrndda
 ManiacGeek
 d3usw4re
+Deuxis
 devakker
 DevElonCoin
 DamieFC
@@ -844,6 +846,7 @@ deitry
 ravenous
 Ramzeth
 rails-to-cosmos
+Expurple
 Deemasta
 Dmitry-Chernikov
 dcherniv
@@ -1165,6 +1168,7 @@ GETandSELECT
 Ghosteon
 GhostsCode
 gimavi
+gpiero
 dergigi
 ginhelly
 ivanottantuno
@@ -1837,6 +1841,7 @@ matyunin
 Hhina
 choma
 mauricedoepke
+freeopenapps
 Soulsuke
 focus-cst
 mxpaul
