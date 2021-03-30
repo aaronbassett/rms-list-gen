@@ -462,6 +462,7 @@ FriendOfEntropy
 2str8
 arthurbacci64
 ArturAiwasan
+tuwid
 kirpoartur
 hamsterbacke
 so1ov
@@ -1422,6 +1423,7 @@ ivansh-cinarra
 CRy386i
 CaCTuCaTu4ECKuu
 jaakristioja
+Jac0Q
 jdedmondt
 lostleaf
 JackJMiller
@@ -1528,6 +1530,7 @@ juanparati
 juan-pe
 ironsm4sh
 adelorn44
+jsamr
 Insolita
 Jupadr
 Jumas-Cola
@@ -2141,6 +2144,7 @@ Morthem
 nicdoye
 NicoNex
 NightBlues
+Niicha
 Dr-Nikson
 ZeroAbility
 nikrozman21
@@ -2760,6 +2764,7 @@ starstruuk
 stassss2011
 stasdachinsky
 stas990
+spithash
 h3ge
 stemid
 steils
@@ -2782,6 +2787,7 @@ Sublimeful
 SuchBlue
 sudo-nice
 sudodoas
+nuisanthon
 me00001
 suleymanfatih
 ghsable
@@ -3235,6 +3241,7 @@ zekefast
 QingGo
 zenithude
 Zensynthium
+AttackHelicopter
 lczch
 llcc
 zhenruyan
@@ -3302,6 +3309,7 @@ XX
 hamer13
 alex134420
 nikolai-kudriavtsev
+narrnika
 V-Lor
 Skrip42
 koutoftimer
