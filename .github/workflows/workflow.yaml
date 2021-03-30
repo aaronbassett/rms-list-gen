@@ -1,0 +1,21 @@
+name: Update Names
+on:
+  schedule:
+    - cron:  '*/10 * * * *'
+  workflow_dispatch:
+jobs:
+  updateNames:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Update lists
+        id: letter
+        run: |
+          python generate_open-list.py
+          python generate_support-list.py
+      - name: Commit and Push
+        run: |
+          git config --global user.name 'List updater bot'
+          git config --global user.email 'updaterbot@users.noreply.github.com'
+          git commit -am "New JSON names"
+          git push
