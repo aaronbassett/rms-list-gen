@@ -570,6 +570,7 @@ bubuntoid
 buckket
 BuggyDriver
 buhtux
+Bairei
 c4eater
 cactus06
 caelifer
@@ -909,6 +910,7 @@ doubleSte
 djhenderson
 douglasb78
 DPTJKKVH
+DrPepperMD
 backenddeveloper
 locutus3009
 Dr1ver
@@ -1444,6 +1446,7 @@ Jenzzo
 JejNya
 JeppeX
 jerome1232
+jdum
 jerxma-git
 Yezuz
 jhdxr
@@ -1584,6 +1587,7 @@ kirillsurkov
 1-methyl-2-phenyl-ethylamine
 kitsunyan
 kkshethin
+klaushayan
 kmxz
 knstntnn
 anampses
@@ -3083,6 +3087,7 @@ willfe
 williamd1k0
 wilyahm
 wingerse
+awslabspl
 vifon
 woky
 wolfcreative
