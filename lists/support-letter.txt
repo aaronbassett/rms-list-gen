@@ -643,6 +643,7 @@ az4521
 crkvt
 CrazyAlex25
 CrazyPython
+CrazySiberianScientist
 cristeigabriel
 cryofrost
 cmd410
@@ -2092,6 +2093,7 @@ nika-butko
 nike38rus
 krigar1184
 acidnik
+nfedyashev
 AngryShaDoW
 nortikin
 kmrov
