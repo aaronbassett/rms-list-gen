@@ -127,6 +127,7 @@ AlexAkhremenko
 AllexIn
 neon-age
 hinell
+aoand
 ridouchire
 maloslov
 alexberghii
@@ -842,6 +843,7 @@ dsdante
 GerasimovDmitry
 evtn
 spinl0ck
+dmitry-karpov
 TheConqu1stador
 Mehavoid
 tutunak
@@ -891,6 +893,7 @@ douglasb78
 DPTJKKVH
 backenddeveloper
 locutus3009
+Dr1ver
 DrownNotably
 duane-r
 DuckSalmon
@@ -1040,6 +1043,7 @@ FChannel0
 centralhardware
 Nutjob
 fedelibre
+fpicchi
 FedShat
 Superkot695
 gfederix
@@ -1217,6 +1221,7 @@ hasenj
 HAUSEVULT
 HeadCutter
 heartofdalek
+HellCreator
 fover23
 Shatur95
 knowhy
@@ -1225,6 +1230,7 @@ hermithuang
 hexonxons
 therealheyjack
 jss5
+HighHeil
 hiljainen
 rakino
 hinotora
@@ -2203,6 +2209,7 @@ pachainti
 pachuco
 padenmoss
 Palmay
+JJPandari
 pankinams
 funktionzero
 papaere
@@ -2392,6 +2399,7 @@ rjgatti
 lbs-rodrigo
 github-is-nonfree-software
 rleigh-codelibre
+rogurotus
 imanro
 1ndahous3
 Dofamin
