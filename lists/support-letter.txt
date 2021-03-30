@@ -1078,6 +1078,7 @@ Ferk
 fmmaresca
 fcasarramona
 FeynmanDNA
+fhivemind
 brcha
 Mintaka
 PlaNOid
@@ -1637,6 +1638,7 @@ krushik
 agentgoblin
 Kry0geniX
 krzysztofciepka
+kpawlicki
 ks1322
 ksa678491784
 kssytsrk
@@ -1794,6 +1796,7 @@ jmarcelofn
 y0rune
 MarcoBuster
 mcaimi
+1up3d
 marco-calautti
 netherfail04
 thatblend
@@ -2308,6 +2311,7 @@ sword1024
 selivan
 PShuvaev
 cziberpv
+bskaz
 pzenov
 pavel-zhigulin
 tux1001
