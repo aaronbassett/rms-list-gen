@@ -270,6 +270,7 @@ ekzotech
 snd3r
 jeditux
 beranat
+a-sennov
 libered
 snelius30
 andershedberg
@@ -1812,6 +1813,7 @@ mseliger?tab=repositories
 marianomacchi
 Air4x
 Mothoi
+mariusz-kowalski
 850d
 mirik123
 markmoretto
@@ -1948,6 +1950,7 @@ qespr
 ZethJack
 Zlopez
 michalszymura
+michalwidera
 traqpl
 ubck93
 microdot178
