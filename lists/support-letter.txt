@@ -154,6 +154,7 @@ AlexVRud
 swalex
 schreiberstein
 saaivs
+Rerium
 smysloff
 asukharev
 trufanov-nok
@@ -396,6 +397,7 @@ ncrashed
 bergentroll
 antoscha
 tbsd
+nnfe
 antohaby
 Homyakin
 antonmx
@@ -456,6 +458,7 @@ atten
 tsunamaru
 rtmy
 arthuriantech
+FriendOfEntropy
 2str8
 arthurbacci64
 ArturAiwasan
@@ -483,12 +486,14 @@ Szer
 azim0ff
 kadirovazizbek
 realazthat
+borisisok
 Fensi3321
 b10n1k
 cristiiy777
 asbai
 by2101
 bpospanov
+BalyberdinDaniil
 BaptisteGCESI
 bgits
 BarryHuffman
@@ -519,6 +524,7 @@ BeyondMagic
 big-flai
 BigmenPixel0
 bigshans
+volatileColors
 gingerhot
 birdflu
 birdofprey
@@ -537,6 +543,7 @@ bm3719
 x9a
 h4xor666
 MightyWarthog
+btrower
 kripton1
 Bogd-Art
 dascar5
@@ -568,6 +575,7 @@ bronybro
 Bronzu
 bcattaneo
 brunofrra
+brunomiguel
 brjsp
 braoult
 bubuntoid
@@ -754,6 +762,7 @@ kdemetter
 deadblackclover
 deadhost
 dedifferentiator
+dedobbin
 DeeAitch
 deedlau
 deeg05
@@ -1310,6 +1319,7 @@ GOKOP
 balanici
 hotid
 IgorIsaiasBanlian
+snfnmeister
 kraglik
 horribile
 cra
@@ -1441,6 +1451,7 @@ Tuipveus
 berk76
 poisonsnak
 multiflexi
+jsiemek
 JavDomGom
 je-vv
 ndsrf
@@ -1501,6 +1512,7 @@ josephbburg
 HakaruN
 Joshix-1
 sunnyjim5
+tibers
 tibers
 emilianork
 Joybuke
@@ -1804,6 +1816,7 @@ tenpast
 jmarcelofn
 y0rune
 MarcoBuster
+erbremar
 mcaimi
 1up3d
 marco-calautti
@@ -1976,6 +1989,7 @@ mike-at-august
 mike-lambert
 MikeeUSA
 sokomishalov
+Mikhail-M12
 Augmeneco
 jerk2kill
 em2er
@@ -2242,6 +2256,7 @@ singularpoint
 OleksandrYemolenko
 aorzh
 Voytovich
+landswellsong
 allgreed
 Olimp666
 Libervurto
@@ -2424,6 +2439,7 @@ Ranger-118
 rastaf0
 RAtioNAn
 RavMda
+Blueshawk
 RAYSONCOLLINS237
 RaZZlom
 RealGithubAdmin
@@ -2447,6 +2463,7 @@ The-Code-Slasher
 Ricardo1980
 richardbenson91477
 rsbondi
+finickydesert
 Rhdrmhdrvf
 sorokya
 richardARPANET
@@ -2793,6 +2810,7 @@ wigingtont2
 taotieren
 Tarik02
 xhaaix
+anyonebutgauri
 taxedtomato
 tgunnoe
 tedi00
