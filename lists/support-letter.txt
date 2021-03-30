@@ -185,6 +185,7 @@ Alexandrsv
 ilammy
 azex
 PYfffE
+AlexeiPhilippov
 arksilva
 hakavlad
 AlexElizard
@@ -219,6 +220,7 @@ Alexey1307
 itviz-vojto
 pjamarama
 alealexpro100
+AlexTheLost
 atererus
 parona-source
 alfredonodo
@@ -833,6 +835,7 @@ zawodskoj
 bakhtiyarov
 0x0000-dot-ru
 dmitryfrost
+bullwinkle
 puzepa
 ssgg86
 Zrrg
@@ -841,6 +844,7 @@ Shiftuia
 pleshevskiy
 pda0
 mpolk
+sthetz
 jershell
 UnitZ
 Gim6626
@@ -1330,6 +1334,7 @@ Fenex330
 grobermoldavan
 N1ckn1ght
 zidercol
+balbelias
 Fearkin
 trialuser02
 rlevi
@@ -2417,6 +2422,7 @@ RavMda
 RAYSONCOLLINS237
 RaZZlom
 RealGithubAdmin
+recepsaglam
 redblade7
 regentov
 rdesgroppes
