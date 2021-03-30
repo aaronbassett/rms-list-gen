@@ -2733,6 +2733,7 @@ strlst
 Sublimeful
 SuchBlue
 sudo-nice
+sudodoas
 me00001
 suleymanfatih
 ghsable
