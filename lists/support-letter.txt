@@ -2035,6 +2035,7 @@ Mirokot
 fedor-miron
 12people
 MisakaSpace
+miszczu
 MitPitt
 xiongjiamu
 mokunshao
@@ -2279,6 +2280,7 @@ oneczx
 oneoa
 ooa64
 opennota
+bitcoin-software
 oresdev
 0rhan
 orin220444
