@@ -202,6 +202,7 @@ keir-ru
 skobkin
 leha-bot
 alanubi
+agerasev
 AnimusPEXUS
 Morgan-iv
 alex-karev
@@ -426,6 +427,7 @@ pm-anton-vysotskiy
 AntonYarish
 0x4d6f6c666172
 aliccardo
+DocenciaLibre
 planetis-m
 anwarnajim
 Aokiare
@@ -1951,6 +1953,7 @@ Shidouuu
 Matthew-Thornton
 MatthewZMD
 cosmo-ray
+martylake
 mattiaoki
 mfg637
 melges-morgen
