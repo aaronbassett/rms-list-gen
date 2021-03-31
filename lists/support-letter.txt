@@ -145,6 +145,7 @@ aakravchenko
 alakiza
 Horat1us
 alexlomax
+a-menshchikov
 napylov
 apmolotkov
 kvadrage
@@ -975,6 +976,7 @@ EdgrM
 eylles
 edgbla
 edo0
+EduardFazliev
 mirairwx
 edwardspec
 ec429
@@ -1188,6 +1190,7 @@ Gaojianli
 normanmcnormie
 ggasp-ar
 gavinthornhill
+gdmn
 gdsouza1
 ge11232002
 gelowin
@@ -1318,6 +1321,7 @@ hhding
 Hoshpak
 h0cheung
 hrg71
+hresh
 HugoFlorentino
 bamboovir
 huipvandenende
@@ -1376,9 +1380,11 @@ illantalex
 ilmirus
 Fenex330
 grobermoldavan
+Turbid
 N1ckn1ght
 zidercol
 balbelias
+ilkh
 Fearkin
 trialuser02
 rlevi
@@ -1894,6 +1900,7 @@ inaltoasinistra
 vhzzy
 NurMarvin
 fu7eL5sa
+matisec
 FeepingCreature
 MathisWellmann
 RosstheRoss
@@ -1972,6 +1979,7 @@ Meemslh
 megalord397
 meganekko
 salva-imm
+Mehmetali345Dev
 melianmiko
 qeeg
 memelongcat
@@ -2046,6 +2054,7 @@ stmuxa
 MikhailKasimov
 mickle-ak
 bybug
+x3lebr4e
 MaxutovMihail
 aluminiumgeek
 mikhailmoshnogorsky
@@ -2253,6 +2262,7 @@ N-R-K
 nsklaus
 nuarknoir
 nubis
+nukah
 nukeop
 NULL-SWEAT
 nununoisy
@@ -2362,10 +2372,11 @@ patbec
 pathologic
 patod01
 PatrickLearn
+ironicgitposting
 Pat-1337
 Eidwood
 beckerpaul
-Freeloo
+Freeloop1642
 psxxx
 kretcheu
 Paultergeist
@@ -2518,6 +2529,7 @@ rgimad
 Rugaliz
 The-Code-Slasher
 Ricardo1980
+Rikxvis
 richardbenson91477
 rsbondi
 finickydesert
@@ -2774,6 +2786,7 @@ akinka-wan
 skeletonium
 SkiF12
 Skilvingr
+skrimix
 Slava096
 SleepingNewton
 sleeply4cat
@@ -3007,6 +3020,7 @@ dexpl
 balamutang
 vadimyen
 vadim-zabolotniy
+gremilkar
 VadzimTarasiuk
 valsaven
 valahraban
@@ -3059,6 +3073,7 @@ drygdryg
 6r1d
 VityaGromyko
 VictorNRA
+victor84
 A1EF
 victor-savinov
 eaglus
@@ -3168,6 +3183,7 @@ ceoofretards
 trendseeker
 imme-emosol
 w316525096
+wafelack
 wallena3
 TaizWeb
 wtetzner
@@ -3283,6 +3299,7 @@ yuriv
 tpw56j
 yuriy-chumak
 cblp
+Do0m666
 ykoryakov
 koteyur
 yury-opolev
