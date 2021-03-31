@@ -1493,6 +1493,7 @@ Jan200101
 honza96
 jangaehler
 jan-gogo
+JanSichula
 Tuipveus
 kowalcj0
 berk76
@@ -2227,12 +2228,14 @@ Axeleron7
 orlovw
 niksher
 KaLe2000
+ndtimofeev
 PickNicko13
 fmajesty
 nikita-yfh
 nikitenich
 nipos
 nikisalli
+MrFermer
 Fooftilly
 gf59ru
 NikolasKuJi
@@ -2335,6 +2338,7 @@ omarlibre
 o-kotb
 omar-polo
 onchov
+OndrejZobal
 oneczx
 oneoa
 ooa64
@@ -2580,6 +2584,7 @@ Roman2dot0
 rmn20
 romaschka1
 DityaRa753
+rshadow
 RomanNosachev
 enderman08
 r-novel
@@ -2715,6 +2720,7 @@ SergeyKud
 sleirsgoevy
 makarowserg
 grwlf
+neg-serg
 NikitchenkoSergey
 Nojpg
 Fil0sOFF
@@ -2912,6 +2918,7 @@ teodor6140
 terachad
 terry-fries
 tetafro
+tetelevm
 TFKls
 tfks
 thaibeouu
