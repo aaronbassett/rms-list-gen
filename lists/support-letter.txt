@@ -646,6 +646,7 @@ cidoku
 Cimus
 cirno-999
 claire1990
+ClarkChiu
 Claude-Ray
 ClaudioRoncaglio
 CliffyPrime
@@ -1877,6 +1878,7 @@ markusdresch
 markuschaaf
 Byl3x
 nelbren
+dedbbs1
 martingalvan
 fra-orolo
 Kixunil
@@ -2553,6 +2555,7 @@ RomanNosachev
 enderman08
 r-novel
 123BLiN
+roman-svystun
 rv82
 roman-wb
 rombok
