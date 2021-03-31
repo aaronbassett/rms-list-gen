@@ -1061,6 +1061,7 @@ HanSaloZu
 evgs89
 dangerrust
 EvgeniyBlinov
+henrypp
 axmetishe
 mrf-r
 unspecd
@@ -1725,6 +1726,7 @@ leonidboykov
 capgelka
 leonid-ed
 LeoKudrik
+L3Nya
 Stuv7CB
 Mzachafel
 xeffyr
@@ -2617,6 +2619,7 @@ schw0reismus
 Scrolls04
 scythianfuego
 SDraw
+SeanConn15
 SeanWangJS
 bctnry
 sebastsg
@@ -2706,7 +2709,6 @@ zsp1987
 Shardion
 d-shaun
 yangsheng6810
-shenlebantongying
 Sherifq
 shmutalov
 shikiroot
