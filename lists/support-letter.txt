@@ -545,6 +545,7 @@ BenCat07
 heroxbd
 DIban-H
 bhugueney
+berarma
 forthy42
 BieHDC
 zwiebert
@@ -1794,6 +1795,7 @@ LekKit
 bitcrusherrr
 event
 LeoNatan
+madcow
 Atomsoldat
 TheMancio
 ljonya
@@ -2205,6 +2207,7 @@ twisthead
 namor-katz
 narcester
 NarimanAB
+Natrinicle
 nathanchere
 glodfinch
 natelastname
@@ -2509,6 +2512,7 @@ streltcov
 petrvelicka
 Phate6660
 phath0m
+philip-bl
 phikal
 oynqr
 philippranzhin
