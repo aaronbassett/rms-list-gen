@@ -91,6 +91,7 @@ fapsisu
 Biblbrox
 alsroot
 lex-x-x
+eviltechn
 zalex68
 Alesha72003
 Alessandro-barbieri
@@ -394,6 +395,7 @@ omsketernal
 MintAnnetta
 annamolodtsova
 AnnatarHe
+AnnoyingTechnology
 Anon1929
 anon72
 sulfur17
@@ -1646,6 +1648,7 @@ KamilKowalski157
 ska80
 TediCreations
 kapunik
+0Karakurt0
 KaratekHD
 karavan
 Karem34
@@ -2075,6 +2078,7 @@ anonymous170707
 mserajnik
 chemizt
 emestee
+voy1ov
 qespr
 ZethJack
 Zlopez
@@ -2247,6 +2251,7 @@ nibirrayy
 RigacciOrg
 nicehiro
 dotgodly
+nicholascloud
 fuschu
 NFrid
 NickTheBit
@@ -2410,6 +2415,7 @@ ooa64
 opennota
 bitcoin-software
 oresdev
+OrfeasLitos
 0rhan
 orin220444
 orivej
@@ -2554,6 +2560,7 @@ procub3r
 progserega
 euphobos
 ProximaNova
+przestaw
 pschc
 ptfn
 ptrkrysik
@@ -2725,6 +2732,7 @@ cmd403
 Sal-theSadmanShark
 sagedemage
 s-brez
+Tiroll
 Traubert
 sjpiazza99
 Tw1ddle
@@ -3401,6 +3409,7 @@ Yosuke-Kawakami
 yottu
 yuchangyuan
 yuedaxia76
+yukani
 gorelikova1993
 yulqen
 Yupy
@@ -3421,6 +3430,7 @@ yury-opolev
 StoneToken
 yurand
 Yusuf-Kozan
+rizno
 yw662
 ywmmmw
 yxor
