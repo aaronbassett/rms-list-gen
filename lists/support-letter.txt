@@ -423,6 +423,7 @@ Zombieff
 pm-anton-vysotskiy
 AntonYarish
 0x4d6f6c666172
+aliccardo
 planetis-m
 anwarnajim
 Aokiare
@@ -2524,6 +2525,7 @@ hgoldfish
 duyquang6
 mrq11920
 QScharn
+HexaOneOfficial
 qux-bbb
 j2969719
 r00ster91
