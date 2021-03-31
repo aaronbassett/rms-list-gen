@@ -142,6 +142,7 @@ SLAAAAAAAD
 mobile-tech1348134
 azg1966
 alexander-gertovsky
+mazanax
 liquidatom
 alexkimru
 aakravchenko
@@ -427,6 +428,7 @@ pm-anton-vysotskiy
 AntonYarish
 0x4d6f6c666172
 aliccardo
+apetrelli
 DocenciaLibre
 planetis-m
 anwarnajim
@@ -2476,6 +2478,7 @@ PeterBadzhakov
 blackptr
 jakobi
 asgalon
+instead-hub
 PTKu
 threelephant
 Inyaheyukan
@@ -2631,6 +2634,7 @@ RomanNosachev
 enderman08
 r-novel
 123BLiN
+outZoNe
 roman-svystun
 rv82
 roman-wb
