@@ -2648,6 +2648,7 @@ r-novel
 outZoNe
 roman-svystun
 rv82
+zvezdunoff
 roman-wb
 rombok
 romdegtyarev
@@ -2919,6 +2920,7 @@ stasdachinsky
 stas990
 spithash
 h3ge
+dewomser
 stemid
 steils
 TheRealTeunissenStefan
