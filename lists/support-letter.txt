@@ -725,6 +725,7 @@ cyborg-ubyvtsya
 CyclopsRevus
 dgcom
 mobusdorphin
+d0p1s4m4
 D3R4
 D3TONAT0R
 D41C
@@ -2675,6 +2676,7 @@ BunkerInnovations
 rngnrs
 avoidr
 rmilson
+gonzoMD
 modrobert
 stengun
 sildur
