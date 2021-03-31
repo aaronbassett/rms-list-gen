@@ -127,6 +127,7 @@ SkyAlexV
 ayekyk
 alex27git
 45bot
+trashman5
 Self-Perfection
 AlexAkhremenko
 AllexIn
@@ -602,6 +603,7 @@ ololord
 13sqrt5
 control-panel
 boris-ulyanov
+bormand
 borntohonk
 banderlog
 zunzon
@@ -2404,6 +2406,7 @@ lego12239
 zero-simp
 Oleh-Kravchenko
 raibu
+Oleh-M
 sashabritov
 dudynets
 MammutAlex
@@ -3003,6 +3006,7 @@ SuperPowerPlumber
 superstrongAI
 schinniah
 suyd
+svart
 fr34kyn01535
 svensis
 zephyyy
@@ -3241,6 +3245,7 @@ vt4a2h
 vitalyfilatov
 vitalykorotkov
 tmp6154
+pilosus
 lindevel
 vhns
 veevyo
