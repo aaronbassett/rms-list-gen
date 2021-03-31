@@ -646,6 +646,7 @@ chr1spy1
 chrylis
 ChristopherTrimboli
 chromius228
+ChronosX88
 Chtobi
 chu4ng
 cidoku
@@ -2038,6 +2039,7 @@ midyukov-anton
 FoxNeo
 odCat
 mihairusu
+rue-ryuzaki
 mihanentalpo
 mihalicyn
 HMihnea
@@ -2668,6 +2670,7 @@ satyrnhub
 saucylegs
 sskras
 SavaLione
+SavKS
 saydus
 sbadux
 schalykh
@@ -3204,7 +3207,7 @@ ceoofretards
 trendseeker
 imme-emosol
 w316525096
-wafelack
+Wafelack
 wallena3
 TaizWeb
 wtetzner
