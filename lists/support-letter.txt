@@ -737,6 +737,7 @@ gladiator
 Danya0x07
 Bagelboi
 danhoffman699
+Daerandin
 ethosnetic
 cabinetto
 0xSteeW
@@ -2126,6 +2127,7 @@ requestSource
 shanechko
 milanandreew
 Milansuman
+mmirate
 SmellyN3rd
 minhajsixbyte
 minimetro
@@ -2425,6 +2427,7 @@ Palmay
 JJPandari
 pankinams
 funktionzero
+pcav
 papaere
 paren-duren
 Parinz
