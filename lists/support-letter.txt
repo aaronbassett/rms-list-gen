@@ -275,6 +275,7 @@ mr-tafreshi
 AmirWinAdmin
 telometto
 amon22
+apatil
 anarkopsykotik
 antzi
 Drake356
@@ -1023,6 +1024,7 @@ edward-riley
 encw
 Edwardixon
 eee4
+gaudecker
 Eerosal
 efectn
 Ilya3point999K
@@ -1181,7 +1183,6 @@ flusq
 fluxxu
 fojetin
 Folkmancer
-luisteixeira25
 Forden
 forrgoten
 FOSS0
@@ -1863,6 +1864,7 @@ luisoliv
 luisbedoya13
 lkarmelo
 lortegap
+luisteixeira25
 luizfl
 lukasjoc
 Sapare
@@ -2497,6 +2499,7 @@ pzenov
 pavel-zhigulin
 tux1001
 zorg1331
+paulakimenko
 PHermanov
 PavlovIvan
 Pawel82S
@@ -3524,6 +3527,7 @@ dzhigit1
 Qeenon
 XX
 hamer13
+korkin-mv
 alex134420
 nikolai-kudriavtsev
 narrnika
