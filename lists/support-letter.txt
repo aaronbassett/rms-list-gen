@@ -965,10 +965,12 @@ dimio
 DmitryMachavariani
 NePutin94
 dmlanplace
+zen-tools
 Biogent
 drymi11
 dodobyte
 slalomsk8er
+domker
 Domosed-gamin
 Domovenok
 doncatnip
@@ -2235,6 +2237,7 @@ Nquxii
 nedbog
 neel-bp
 NeilElder
+neilsimp1
 neiskip
 nek0bit
 NekoDerek
