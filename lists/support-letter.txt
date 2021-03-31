@@ -759,7 +759,7 @@ cinch
 primarchstrelok
 Zer0-One
 vi-david
-davtur19
+sticks-stuff
 DaxGoon
 threadpoolexecutor
 dbf
@@ -1858,6 +1858,7 @@ hogsy
 mtuzinskiy
 MarkoControl
 markusdresch
+markuschaaf
 Byl3x
 nelbren
 martingalvan
@@ -2497,6 +2498,7 @@ sorokya
 richardARPANET
 richi235
 richardzilincik
+RichieJi
 RikeVoltz
 DragonZla
 rishatsharafiev
