@@ -953,6 +953,7 @@ locutus3009
 Dr1ver
 dkodex
 DrownNotably
+drushadrusha
 duane-r
 DuckSalmon
 dukelec
@@ -1733,6 +1734,7 @@ mrgreenstar
 LandryIrakoze
 larrabee
 LarryXuLarryXu
+huluk
 Janbuller
 LaszloEr
 latachz
@@ -2735,6 +2737,7 @@ mk2310
 svu
 zezic
 djkovrik
+xenolog
 sergey-here
 zelr0x
 serega404
@@ -3104,6 +3107,7 @@ nikbott
 onlyvip
 ciubotaru
 Varrkan82
+VitaliyBreslavskyi
 vitalif
 VitaliyHTC
 v-dem
@@ -3395,6 +3399,7 @@ xyz-man
 IlyaIndigo
 De-Luxis
 codefather-labs
+sergo1217
 erthink
 k-mx
 dzhigit1
