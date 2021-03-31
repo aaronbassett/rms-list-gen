@@ -50,6 +50,7 @@ dmathieu
 damienmckenna
 damienstanton
 danfuzz
+Lokathor
 dkg
 octaforge
 s7sost
@@ -88,8 +89,8 @@ fcurella
 fmount
 frankofsandiego
 genebean
-xnorxnor
 gcagle3
+xnorxnor
 GlitchyPSIX
 dontbenebby
 guilieb
@@ -155,8 +156,8 @@ michaeltlombardi
 miguelraz
 ukmadlz
 mxmilkiib
-minhoryang
 artoria2e5
+minhoryang
 molly
 moosingin3space
 ndickinsonwilde
@@ -207,6 +208,7 @@ tabatkins
 cheginit
 luser
 mrdrogdrog
+timClicks
 macleodsawyerms
 tkphd
 Nytelife26
@@ -217,7 +219,6 @@ vincenzopalazzo
 locao
 vinisalazar
 rebtoor
-vladlenasossi
 wrl
 worr
 wupeka
@@ -228,3 +229,4 @@ yeoncomi
 kakaroto
 zacharyarnaise
 zach-klippenstein
+vladlenasossi
