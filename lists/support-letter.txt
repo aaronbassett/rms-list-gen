@@ -422,6 +422,7 @@ cryptoarashi
 arbitrary-dev
 archeoid
 archer-n
+ardacebi
 arharovets
 aritra1911
 macbury
@@ -1111,6 +1112,7 @@ fmmaresca
 fcasarramona
 FeynmanDNA
 fhivemind
+fifonik
 brcha
 Mintaka
 PlaNOid
@@ -3342,6 +3344,7 @@ dd-dev
 egzakharovich
 xyz-man
 IlyaIndigo
+De-Luxis
 codefather-labs
 erthink
 k-mx
