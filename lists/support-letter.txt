@@ -594,6 +594,7 @@ banderlog
 zunzon
 bpm2772
 bprunevi
+BratishkaErik
 bwajtr
 axceron
 urza9814
@@ -1195,6 +1196,7 @@ fufik
 oh-fugg
 fullmetal1
 funmaker
+funbaker
 Fustie
 fuuon
 CherniyFY
