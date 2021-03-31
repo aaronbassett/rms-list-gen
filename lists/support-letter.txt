@@ -639,6 +639,7 @@ Freshzucchini2
 caltlgin
 Captain-ALM
 CardboardTurtle
+carlfarrington
 calleha
 bear1ake
 carlsmei
@@ -1198,6 +1199,7 @@ fluxxu
 fojetin
 Folkmancer
 Forden
+InfiniteWorldSoftware
 forrgoten
 FOSS0
 fpemud
@@ -1617,6 +1619,7 @@ jonpetermatt
 JonathinR
 ojnny
 JoonasC
+joonazan
 keyboard-Slayer
 jordst
 Soldii
