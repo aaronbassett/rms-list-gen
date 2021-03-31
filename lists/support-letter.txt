@@ -61,6 +61,7 @@ al-bashkir
 itzjustalan
 eckelhesten
 instancezero
+albertandrejev
 deralbert
 alcortazzo
 Aldo-Herese
@@ -320,6 +321,7 @@ AndrewMayorov
 amrykhin
 Aldrog
 adrianopol
+AndrewPrzelucki
 bircoph
 AndrewSDFoster
 andrewtimoshenko
@@ -939,6 +941,7 @@ DmitryMachavariani
 NePutin94
 dmlanplace
 Biogent
+drymi11
 dodobyte
 slalomsk8er
 Domosed-gamin
@@ -1154,6 +1157,7 @@ flusq
 fluxxu
 fojetin
 Folkmancer
+luisteixeira25
 Forden
 forrgoten
 FOSS0
@@ -1565,6 +1569,7 @@ jonpetermatt
 JonathinR
 ojnny
 JoonasC
+keyboard-Slayer
 jordst
 Soldii
 jsblanco
@@ -1701,6 +1706,7 @@ kmatveev
 kmatyukhin
 kinazarov
 pastk
+konstantin-popov
 grobza
 skvav
 tenzink
@@ -1932,6 +1938,7 @@ weepsom
 mattmocellin
 nastasi
 mattkanwisher
+Betawolf
 vitrvvivs
 garageman2335
 Shidouuu
@@ -2461,6 +2468,7 @@ jakobi
 asgalon
 PTKu
 threelephant
+Inyaheyukan
 santurysim
 petr-akhlamov
 streltcov
@@ -2486,6 +2494,7 @@ pkubaj
 piotr-wiszowaty
 zaramid
 Pizzacus
+PJ-Bass
 ploff
 poetaster
 polearnik
@@ -2536,6 +2545,7 @@ Random2Nothing
 randomguywithagun
 Ranger-118
 rastaf0
+rasul-gasanov
 RAtioNAn
 RaveCrystal
 RavMda
@@ -2543,7 +2553,6 @@ Blueshawk
 RAYSONCOLLINS237
 RaZZlom
 rciurkot
-RealGithubAdmin
 recepsaglam
 redblade7
 regentov
@@ -2586,6 +2595,7 @@ avoidr
 rmilson
 modrobert
 stengun
+sildur
 mileschet
 RockyBukake
 rjgatti
@@ -2750,6 +2760,7 @@ greyblake
 kergma
 Rsa97
 kirra-cat
+siversss
 nightori
 shamshev
 Prototik
