@@ -466,6 +466,7 @@ arionrefat
 aritra1911
 macbury
 arkandas
+arm-github
 ArmandRathgeb
 772
 arnavbhatt288
@@ -637,6 +638,7 @@ Bairei
 c4eater
 cactus06
 caelifer
+cai1111
 7heaven
 CaKrome
 Calajese
@@ -989,6 +991,7 @@ slalomsk8er
 domker
 Domosed-gamin
 Domovenok
+DonaldKellett
 doncatnip
 whenov
 dongyuwei
@@ -1396,6 +1399,7 @@ h0cheung
 hrg71
 hresh
 HugoFlorentino
+hugoluiz
 bamboovir
 huipvandenende
 hwulfmeyer
@@ -1623,6 +1627,7 @@ IceeMC
 CoherentLogic
 nentibusarchitectura
 SViN24
+johnnyshields
 sasin91
 Nikurasukun
 jonathancast
@@ -2035,6 +2040,7 @@ MaxCorreia
 dmitrmax
 mxseev
 max-makeichik
+mx256
 Markeli
 zabbal
 lelgaunt
@@ -2373,6 +2379,7 @@ Nivelfacile
 tisakotu
 nnnn20430
 NO-ob
+noarchwastaken
 nobodysu
 nobytesgiven
 noksel
@@ -2830,6 +2837,7 @@ SeijiStory
 sekvanto
 omon03
 theoldhippie
+MarSoft
 Mirsem13
 zimmnik
 sepandhaghighi
@@ -3424,6 +3432,7 @@ xpsair
 xsafter
 xTpx
 xtul
+xuyang2
 philipCCC
 xvitaly
 xxcw
