@@ -367,6 +367,7 @@ radist-nt
 martyanov
 moskalenco-a
 ansavin
+Lastique
 andreyshuster
 ShvetsovAndrey
 mrartanis
@@ -2304,6 +2305,7 @@ NekoDerek
 nekohasekai
 nekonee
 nekovirus
+jupiter126
 NeonOverflow
 nepridumalnik
 Nerd0o0
@@ -3525,6 +3527,7 @@ koteyur
 yury-opolev
 StoneToken
 yurand
+yusdacra
 Yusuf-Kozan
 rizno
 yw662
