@@ -528,6 +528,7 @@ atsix
 aUniqueUser
 au-top
 averne
+avil13
 avmolaei
 CRKaraman
 Pillarxyz
@@ -2482,6 +2483,7 @@ kubrack
 dvoyakiy
 singularpoint
 OleksandrYemolenko
+Kindrat
 akhimchenko
 aorzh
 Voytovich
