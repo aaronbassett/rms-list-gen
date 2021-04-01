@@ -658,6 +658,7 @@ ccorn
 CelliesProjects
 CertifiedRascal
 CH23-
+MegChai
 deloachcd
 ackr-8
 ChanoSan
@@ -878,6 +879,7 @@ DevElonCoin
 DamieFC
 guptadd
 tuhaihe
+dic1911
 diegogangl
 do9900
 ddilans
@@ -1631,6 +1633,7 @@ JoonasC
 joonazan
 keyboard-Slayer
 jordst
+shackra
 Soldii
 jsblanco
 jorisrietveld
@@ -1894,6 +1897,7 @@ luisbedoya13
 lkarmelo
 lortegap
 luisteixeira25
+asluizh
 luizfl
 lukasjoc
 Sapare
@@ -2024,6 +2028,7 @@ choma
 mauricedoepke
 freeopenapps
 Soulsuke
+specialtactics
 focus-cst
 mxpaul
 MaxCorreia
@@ -2759,6 +2764,7 @@ rustzz
 distroid
 rburdett4
 Ryan-C-Hogan
+ryanpdavidovics
 ryanrms
 i0tool5
 rydnr
@@ -2766,6 +2772,7 @@ vrytov
 psymin
 Fuzzy-beep-boop
 s-unger
+s2marine
 sabars
 saeedark
 saelz
@@ -2971,6 +2978,7 @@ SpheeresX
 spiko-md
 SpringHan
 spacepilotAV
+SquareFong
 sjqtentacles
 SR3u
 sjith7
