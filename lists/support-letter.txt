@@ -271,6 +271,7 @@ AlternativeSolution
 Alucarch
 alula
 ya-rybalko
+miuchan
 amatras
 ojizero
 amidmajd
@@ -337,6 +338,7 @@ A1kmm
 amrykhin
 Aldrog
 adrianopol
+andrey-podko
 AndrewPrzelucki
 bircoph
 AndrewSDFoster
@@ -1501,6 +1503,7 @@ GanterPenguin
 ivandasch
 smopro
 vany-egorov
+getsiu
 CGIProgrammer
 0x9d8e
 ii0606226
@@ -1586,6 +1589,7 @@ Jenzzo
 JejNya
 JeppeX
 jerome1232
+JeremyRand
 jdum
 jerxma-git
 Yezuz
@@ -2494,6 +2498,7 @@ ironicgitposting
 Pat-1337
 Eidwood
 beckerpaul
+auxo86
 Freeloop1642
 psxxx
 kretcheu
@@ -2740,6 +2745,7 @@ ri-gilfanov
 ruslanpetrov
 RevenantX
 remenkoff
+quanttyo
 UncleRus
 norus
 pHr34kY
