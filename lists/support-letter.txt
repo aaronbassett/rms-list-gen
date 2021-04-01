@@ -445,6 +445,7 @@ Zombieff
 pm-anton-vysotskiy
 AntonYarish
 0x4d6f6c666172
+ankiedos
 aliccardo
 Tredkip
 apetrelli
@@ -845,6 +846,7 @@ Astrologer
 denisbully
 numas13
 CoruNethron
+codingjerk
 dionys
 danykey
 denis-256
@@ -977,6 +979,7 @@ Aryesia
 snoweee322
 jda157
 Xord8664
+djudev
 cbrnix
 dzavodnikov
 dvz0
@@ -1313,6 +1316,7 @@ wheream17
 leruzh
 glebsam
 glolsh
+skibitsky
 bambone
 gnuchris
 GodsTrill
@@ -1828,6 +1832,7 @@ kyruzic
 KVRTovich
 L1pE
 l29ah
+lab79
 lain-dono
 mrgreenstar
 LandryIrakoze
@@ -2951,6 +2956,7 @@ stevenjoezhang
 Gnomeek
 sickcodes
 siduck76
+siglud
 SilmorSenedlen
 molakp
 simbaclaws
