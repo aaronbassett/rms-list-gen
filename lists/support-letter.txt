@@ -733,6 +733,7 @@ cristeigabriel
 cryofrost
 cmd410
 ygricks
+Cvtx
 cwoszczak
 4n0n4
 cyborg-ubyvtsya
@@ -1169,6 +1170,7 @@ Ezioleq
 F0Xde
 SomeUsername1
 hkzlab
+fnicolini
 fsoft72
 explosion-mental
 fpeter1337
@@ -1393,6 +1395,7 @@ HellCreator
 fover23
 tjiptomangun
 Shatur95
+henriknelson
 knowhy
 Hereigo
 jiffygist
@@ -1990,6 +1993,7 @@ markellus
 MPolleke
 tenpast
 jmarcelofn
+mpasko
 y0rune
 MarcoBuster
 erbremar
