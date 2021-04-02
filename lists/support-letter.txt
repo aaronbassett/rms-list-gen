@@ -983,6 +983,7 @@ Mehavoid
 tutunak
 dimm-soft
 luckyl3
+shtrih
 AMDmi3
 damned-trooper
 0xf0a00
@@ -1164,6 +1165,7 @@ evgeniy1294
 Forsakenrox
 vizhev
 Zhenyria
+lospirit
 john9x
 generalov
 HanSaloZu
@@ -1906,6 +1908,7 @@ event
 LeoNatan
 madcow
 Atomsoldat
+leonardfactory
 Baldomo
 TheMancio
 ljonya
@@ -2062,6 +2065,7 @@ martingalvan
 fra-orolo
 Kixunil
 Mapmo
+krischik
 marvic2409
 schumar
 martindeck
@@ -2220,6 +2224,7 @@ lassana
 Teapod
 xDShot
 MikeKozlowicz
+MikeSafonov
 mikeasolo
 mike-at-august
 mike-lambert
@@ -2652,6 +2657,7 @@ threelephant
 Inyaheyukan
 santurysim
 petr-akhlamov
+User330639
 streltcov
 petrvelicka
 phobot
