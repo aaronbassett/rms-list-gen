@@ -31,6 +31,7 @@ LLLida
 GNUxeava
 Admiral124
 adrianiainlam
+Energiereaktor
 ader1990
 cocatrip
 AdUser
@@ -2991,6 +2992,7 @@ lizard2010
 SergioHdzReyes
 srmq
 Sergio-Ka
+bor
 adron-s
 intereal
 solariserj
