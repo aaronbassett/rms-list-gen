@@ -2501,6 +2501,7 @@ oleg-jukovec
 svmidi
 OlegKapust
 antipooh
+ollar
 artokarin
 blzzua
 mopo3ilo
@@ -3169,6 +3170,7 @@ CyberDoge
 taiju
 tamizhis5n
 yutyo
+takaki
 wigingtont2
 taotieren
 Tarik02
