@@ -1239,6 +1239,7 @@ henrypp
 axmetishe
 mrf-r
 unspecd
+abacabadabacaba
 e-safonov
 yazver
 mastersin
@@ -1800,6 +1801,7 @@ Jupadr
 urkonn
 jschwartzenberg
 Jumas-Cola
+jurijmaksimov
 JustZhenya
 justafreaky
 just6chill
@@ -2659,6 +2661,7 @@ bitcoin-software
 oresdev
 OrfeasLitos
 0rhan
+Lip4ik
 orin220444
 orivej
 orothorn
