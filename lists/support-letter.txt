@@ -107,6 +107,7 @@ alexanderi96
 alessandroveller
 alevesely
 aleferri
+MinimumLaw
 reactos573
 pitachx
 erley
@@ -566,6 +567,7 @@ realazthat
 borisisok
 Fensi3321
 b10n1k
+Yur-ok
 cristiiy777
 asbai
 by2101
@@ -2493,6 +2495,7 @@ enchantner
 Amrikz
 kolayne
 kkolyan
+punzik
 postpersonality
 kolqaa
 k0ly4n
