@@ -1266,6 +1266,7 @@ PlaNOid
 FinecoFinit
 fingolfin0
 Frodiwe
+fedor4ever
 Firstbober
 fj-fj-fj
 bafometz
@@ -3140,6 +3141,7 @@ sleepy-monax
 Sloopy3333
 dmitrysluch
 chemist
+Smith1970
 SmokeySmoke
 smokinchimpanaut
 Snake9889
@@ -3503,6 +3505,7 @@ kunschikov
 yandoogle
 TeQuieroRu
 iostrovok
+Tinsane
 NeandErtalets
 osminogin
 frost13it
@@ -3626,6 +3629,7 @@ xbvrhlmb
 xdefrag
 xf0e
 jiaoxianjun
+xiaojay
 xor2003
 xpsair
 xsafter
