@@ -332,6 +332,7 @@ starise
 andigi89
 bAndie91
 andreas-schwenk
+Airog
 pythagor
 redandrei
 AndreiMAFA
@@ -414,6 +415,7 @@ Ryzhehvost
 fgssfgss
 mustitz
 andriisgit
+kittyandrew
 steftim
 madand
 HollowWings
@@ -2900,6 +2902,7 @@ lbs-rodrigo
 github-is-nonfree-software
 rleigh-codelibre
 rogurotus
+rredesigns
 imanro
 1ndahous3
 Dofamin
@@ -3318,6 +3321,7 @@ thedvd98
 tkiat
 TheGreatGman
 TheNonameee
+cloudtemple
 gankaxx
 ThePetrovich
 theseas
@@ -3470,6 +3474,7 @@ vatec
 vbakc
 VD-15
 epsil
+vender98
 veneris
 Venji10
 venomega
