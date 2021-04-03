@@ -573,6 +573,7 @@ AstroKiR
 atomtoast
 atsix
 aUniqueUser
+texpert
 au-top
 averne
 avil13
