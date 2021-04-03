@@ -98,6 +98,7 @@ alsroot
 lex-x-x
 eviltechn
 s9gf4ult
+AlekseyUsov
 zalex68
 Alesha72003
 Alessandro-barbieri
@@ -736,6 +737,7 @@ ClaudioRoncaglio
 CliffyPrime
 climbTheStairs
 ClockGen
+CloudyProton
 Patola
 cmonkey
 CodeGuro
@@ -3547,6 +3549,7 @@ FromSi
 Weendx
 weirdvic
 wellusion
+WenceyWang
 ybyygu
 wenxin-wang
 zhangwenxuan322
