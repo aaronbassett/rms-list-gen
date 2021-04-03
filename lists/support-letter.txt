@@ -306,6 +306,7 @@ abitrolly
 drumit
 d351d3r
 kurotych
+tsdaemon
 Grabatui
 xanell
 dkeye
@@ -3153,6 +3154,7 @@ GitMensch
 ghua
 swardman
 simone-cominato
+Sinofine
 BratSinot
 sirakai-pc
 akinka-wan
