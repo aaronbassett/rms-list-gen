@@ -488,6 +488,7 @@ apten-fors
 aqui1a
 cryptoarashi
 arbitrary-dev
+arch7tect
 archeoid
 archer-n
 ardacebi
@@ -709,6 +710,7 @@ ChanoSan
 Rinroli
 fuhye
 scxr
+chasylexus
 cndkhuong
 roberChen
 chertov
@@ -842,6 +844,7 @@ dantecpu
 Dantenerosas
 ramzes13
 darijgr
+dario-chiappetta
 scarburato
 DarkContact
 DarkMahesvara
