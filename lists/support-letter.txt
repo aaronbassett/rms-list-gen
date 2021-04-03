@@ -416,6 +416,7 @@ fgssfgss
 mustitz
 andriisgit
 kittyandrew
+zystem
 steftim
 madand
 HollowWings
@@ -923,6 +924,7 @@ dramviewer
 DenisPimenov
 EpluribusNEO
 zloirock
+dendron2000
 dust5114
 x1unix
 sen-den
@@ -2649,6 +2651,7 @@ OrfeasLitos
 orin220444
 orivej
 orothorn
+jangir-dev
 wine
 ossimalvin
 ottersarecool
