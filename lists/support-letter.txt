@@ -58,6 +58,7 @@ TURING-V2
 akatsukinoyami
 aztecrabbit
 ahanoff
+akhilman
 akisfoo
 namikiri
 AKonia
@@ -494,6 +495,7 @@ arbitrary-dev
 arch7tect
 archeoid
 archer-n
+arcturus5340
 ardacebi
 ardek66
 arharovets
@@ -1052,6 +1054,7 @@ dimio
 DmitryMachavariani
 NePutin94
 dmlanplace
+graahnul-grom
 zen-tools
 Biogent
 drymi11
