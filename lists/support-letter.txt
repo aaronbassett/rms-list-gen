@@ -1761,6 +1761,7 @@ IceeMC
 CoherentLogic
 nentibusarchitectura
 SViN24
+JohnDoe02
 johnnyshields
 karjonas
 sasin91
@@ -1988,6 +1989,7 @@ LawCyber
 le0nklcpp
 leadenhead
 leakt
+allentiak
 leandroramos
 LegoLivesMatter
 LekKit
@@ -3088,6 +3090,7 @@ asergejs
 skirpichev
 sergeibershadsky
 undead9000
+seregaizsbera
 omgbebebe
 sjbur
 flexoadm
@@ -3460,6 +3463,7 @@ dexpl
 balamutang
 vadimyen
 vadim-zabolotniy
+judaew
 gremilkar
 VadzimTarasiuk
 valsaven
