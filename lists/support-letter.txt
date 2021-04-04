@@ -27,6 +27,7 @@ adbenitez
 playXE
 f16chan
 ademar111190
+ademaro
 ReanSchwarzer1
 beucismis
 LLLida
@@ -126,8 +127,10 @@ jazzl0ver
 akurichenko
 gitavk
 ventacom
+aleks-misharin
 alexmonk
 nekipelov
+modernpacifist
 ASPozharsky
 samm-git
 karl93rus
@@ -180,6 +183,7 @@ apotyn
 AlexanderP
 alex4321
 apupeikis
+pyhalov
 AlexVRud
 swalex
 schreiberstein
@@ -206,6 +210,7 @@ Varuna108
 ZiJer
 AlexanderAndreevGtn
 house-of-vanity
+tabuna
 10606
 fluttr
 aoleynik812
@@ -360,6 +365,7 @@ AndresGroselj
 zayka
 andrew-phi
 abobbler
+wolf3w
 dorokhin
 iflyhigh
 altmind
@@ -459,6 +465,7 @@ anthony-geoghegan
 Sorenjin
 Ta180m
 petidecember
+a-akulov
 zwieback
 clsv
 kortirso
@@ -566,6 +573,7 @@ Art-2
 tlani
 aolshevskiy
 KolhozniiSniper
+ashalkhakov
 artbasov
 arunpalaniappan
 darkreaperboy
@@ -775,6 +783,7 @@ CloudyProton
 Patola
 cmonkey
 CodeGuro
+codenamecpp
 cofob
 VCStardust
 coldbootinitheart
@@ -804,6 +813,7 @@ cwoszczak
 4n0n4
 cyborg-ubyvtsya
 CyclopsRevus
+CatalinFrancu
 dgcom
 mobusdorphin
 d0p1s4m4
@@ -1288,6 +1298,7 @@ Superkot695
 gfederix
 fedorusov
 felicson
+tiket18
 felipeGangrel
 fbe
 felixpalta
@@ -1380,6 +1391,7 @@ ge11232002
 gechandesu
 geekmaster21
 gelowin
+genabug
 genez
 graarh
 IIIT0II0P
@@ -1562,6 +1574,7 @@ kraglik
 horribile
 cra
 osmGosha
+iryston
 RigoN-
 anlcnt
 IgorLutiy
@@ -1660,6 +1673,7 @@ ivanpopelyshev
 4fury-c3440d8
 ivanrakilovsky
 zorggish
+intelfx
 shikhalev
 sirikid
 IvanStanul
@@ -1685,6 +1699,7 @@ lostleaf
 JackJMiller
 jacksaad1991
 C-xC-c
+JackIT09
 misshandel
 TbIKOB
 JacobHin2
@@ -1718,6 +1733,7 @@ multiflexi
 EvilusPL
 jsiemek
 L-M-Sherlock
+darkermatter
 JavDomGom
 je-vv
 ndsrf
@@ -1908,6 +1924,7 @@ kkshethin
 klaushayan
 KleeMoe
 kmxz
+knazariy
 knstntnn
 anampses
 KOLANICH
@@ -2177,6 +2194,7 @@ mass34
 massimo-zaniboni
 fu7eL5sa
 matisec
+Spixmaster
 FeepingCreature
 MathisWellmann
 RosstheRoss
@@ -2248,6 +2266,7 @@ grep0
 shrimpful
 arhinex
 Viiprogrammer
+tmpuserforbugreport
 zeromask1337
 PunGy
 Mzheldin
@@ -2538,7 +2557,9 @@ i-just-lizard
 Lolimpo
 Axeleron7
 amdbtw
+behollder
 orlovw
+monotribe
 niksher
 sivakov512
 KaLe2000
@@ -2813,6 +2834,7 @@ hawat
 pkubaj
 piotr-wiszowaty
 zaramid
+oupjob
 Pizzacus
 PJ-Bass
 ploff
@@ -2878,6 +2900,7 @@ Blueshawk
 RAYSONCOLLINS237
 RaZZlom
 rciurkot
+readmaniak
 recepsaglam
 redblade7
 regentov
@@ -3014,6 +3037,7 @@ Fuzzy-beep-boop
 s-unger
 s2marine
 sabars
+ilius
 saeedark
 saelz
 Sagandh
@@ -3249,6 +3273,7 @@ stalker0912
 g1gzer
 stas-bool
 gurland
+xyll
 grepz
 StunIsLove
 smalyshev
@@ -3301,6 +3326,7 @@ me00001
 suleymanfatih
 ghsable
 SunnyCapt
+sunw41ker
 Supercip971
 SuperPowerPlumber
 superstrongAI
@@ -3429,6 +3455,7 @@ tvvoty
 twoscott
 twojstaryzdomu
 vulpinefoxxo
+tylerswagar
 Tynkute
 tz-lom
 u-235
@@ -3470,6 +3497,7 @@ Vadim-Burns
 dexpl
 balamutang
 vadimyen
+vadimyoungg
 vadim-zabolotniy
 judaew
 gremilkar
@@ -3506,6 +3534,7 @@ galkinvv
 GRIDARK
 legalt
 vmrm
+nv95
 des-esseintes
 VasyaSmolyar
 oriontvv
@@ -3535,6 +3564,7 @@ A1EF
 balhrog
 victor-savinov
 eaglus
+JustVic
 shaggyone
 Dimich-x33
 LukashonakV
@@ -3798,6 +3828,7 @@ koteyur
 yury-opolev
 StoneToken
 yurand
+adeptg
 yusdacra
 Yusuf-Kozan
 Tix3Dev
@@ -3882,6 +3913,7 @@ wslvf
 Dmitry450
 dmitryvakulenko
 pr4gmat1q
+Maestix
 dd-dev
 egzakharovich
 xyz-man
