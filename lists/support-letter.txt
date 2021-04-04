@@ -1070,6 +1070,7 @@ soul-catcher
 ameiji
 Xomyk
 shurup
+JonMagon
 dmitry-skrypka
 cyradin
 strodi
@@ -1393,6 +1394,7 @@ ge11232002
 gechandesu
 geekmaster21
 gelowin
+k15201363625
 genabug
 genez
 graarh
