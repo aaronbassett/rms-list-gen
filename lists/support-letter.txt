@@ -259,6 +259,7 @@ zyzier
 axet
 allikhachev
 foxman333
+amandrichenko
 mukovnin
 MurzNN
 Devoter
@@ -1036,6 +1037,7 @@ CmShepard
 dtcyganok
 dmitriitux
 zawodskoj
+azraerl
 bakhtiyarov
 0x0000-dot-ru
 dgefremov
@@ -2118,6 +2120,7 @@ liquidev
 lishoujun
 liugang
 farliz
+llluuuzzziii
 Lofaloa
 LonelyWolf54i
 longminwang
@@ -2189,6 +2192,7 @@ maxz000
 mskutin
 MaksimSvinin
 Dramcryx
+maxcxam
 xon-dev
 MaksymPrymierov
 Malomalsky
@@ -2880,6 +2884,7 @@ pelot99
 MrCoder
 perceival
 peresmeshnikov
+MalKeshar
 PeterBadzhakov
 blackptr
 jakobi
@@ -3605,6 +3610,7 @@ vadimyoungg
 vadim-zabolotniy
 judaew
 gremilkar
+VadymMai
 VadzimTarasiuk
 valsaven
 valahraban
