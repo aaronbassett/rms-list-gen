@@ -8,6 +8,7 @@ Yabgu
 Abdykarov
 lycuid
 AbitTheGray
+Cr33pyM9n
 exAstro
 abtinmo
 Abysmo
@@ -557,6 +558,7 @@ t3m8ch
 Knebergish
 saahriktu
 tarwirdur
+iharuspex
 d-helios
 pa23
 procudin
@@ -1970,6 +1972,7 @@ konrad-komisarczyk
 KizhiFox
 baranovskiykonstantin
 kbaryshnikov
+Sklifasovsky
 ksdaemon
 gitpel
 hastly
