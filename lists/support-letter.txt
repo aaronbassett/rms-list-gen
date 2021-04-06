@@ -566,6 +566,7 @@ arssher
 f-person
 c0deum
 artb1sh
+Gilah-EnE
 mechanicalapple
 TheRTK
 PosReadyNT
@@ -2993,6 +2994,7 @@ ptfn
 ptrkrysik
 trojan0523
 purplecodingwizard
+corviv
 pxh612
 pzizzari
 q00Dree
@@ -3012,6 +3014,7 @@ rab24ack
 lunar-mining
 RedCatGirl
 radhityax
+GloryToMoon
 rkujawa
 drzraf
 rc-05
@@ -3194,6 +3197,7 @@ s-brez
 Tiroll
 Traubert
 sjpiazza99
+heaveaxy
 joe-skb7
 Tw1ddle
 Samet-MohamedAmin
