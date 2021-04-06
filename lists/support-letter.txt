@@ -515,6 +515,7 @@ ncrashed
 6he
 iunanton
 bergentroll
+uncerso
 antoscha
 tbsd
 nnfe
@@ -622,6 +623,7 @@ artbasov
 arunpalaniappan
 aryandb
 darkreaperboy
+BlackCatDevel0per
 krax1337
 ASCIIteapot
 ashneo76
@@ -1135,6 +1137,7 @@ d-ryzhikov
 soul-catcher
 ameiji
 Xomyk
+Anakael
 shurup
 JonMagon
 dmitry-skrypka
