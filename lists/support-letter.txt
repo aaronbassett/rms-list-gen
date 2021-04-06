@@ -478,6 +478,7 @@ andromeda911
 mixedCase
 flooovvv
 manateelazycat
+krasnovandy
 andyprough
 iamm3chanic
 sackmotion
@@ -528,6 +529,7 @@ Akt0r
 massaraksh33
 PM2D
 AntonPetrochenko
+nishbo
 wendor
 kosmonaffft
 anton-vanda
@@ -816,6 +818,7 @@ suranc
 chrisamow
 arroyoquiel
 c-flew
+christian-leger
 chripell
 cwassert
 m1cm1c
@@ -1792,6 +1795,7 @@ flashcactus
 Lux-OpenSrc
 kenrube
 Arcturuss
+IvanMi773
 IvUyr
 ivanka2012
 iVanKeKs
@@ -4111,6 +4115,7 @@ lczch
 llcc
 zhenruyan
 rostisluv
+Zherdev
 js00070
 LuoZhongYao
 feverzsj
