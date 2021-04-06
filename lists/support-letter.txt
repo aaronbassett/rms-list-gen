@@ -1114,6 +1114,7 @@ tutunak
 DKovalchuk
 dimm-soft
 luckyl3
+dmitrylink
 shtrih
 AMDmi3
 damned-trooper
@@ -1826,6 +1827,7 @@ EvilusPL
 jsiemek
 L-M-Sherlock
 darkermatter
+westial
 JavDomGom
 je-vv
 ndsrf
@@ -2695,6 +2697,7 @@ orlovw
 monotribe
 niksher
 sivakov512
+Suchsuch
 KaLe2000
 ndtimofeev
 PickNicko13
@@ -2781,6 +2784,7 @@ svmidi
 OlegKapust
 olegafx
 antipooh
+olegkostoglotov
 ollar
 artokarin
 blzzua
@@ -3012,6 +3016,7 @@ purplecodingwizard
 corviv
 pxh612
 pzizzari
+xelorr
 q00Dree
 qbinoti23
 eagleoflqj
@@ -3492,6 +3497,7 @@ rktfier
 strlst
 Sublimeful
 SuchBlue
+pashok6798
 sudo-nice
 sudodoas
 nuisanthon
