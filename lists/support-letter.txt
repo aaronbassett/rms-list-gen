@@ -175,6 +175,7 @@ ceveryc
 vpArth
 SLAAAAAAAD
 mobile-tech1348134
+AlexFyod
 azg1966
 alexander-gertovsky
 mazanax
@@ -185,6 +186,7 @@ aakravchenko
 alakiza
 Horat1us
 alexlomax
+nunsez
 a-menshchikov
 ANGulchenko
 napylov
@@ -1932,6 +1934,7 @@ urkonn
 jschwartzenberg
 Jumas-Cola
 jurijmaksimov
+TheSig
 JustZhenya
 justafreaky
 just6chill
@@ -2067,6 +2070,7 @@ Riewell
 KopiKonfig
 koplenov
 Wirena
+kostya05983
 Pichristos
 kotonbu
 kotofos
@@ -2574,6 +2578,7 @@ Mr0maks
 MrA1ex
 MrBrooks82
 MrCapone
+mrjaxi
 MrOnlineCoder
 MrSorcus
 mrThe
@@ -2966,6 +2971,7 @@ petr-akhlamov
 User330639
 streltcov
 petrvelicka
+p-bogdan
 krutoo
 phobot
 Phate6660
@@ -3369,6 +3375,7 @@ shanedk
 zsp1987
 1over137
 Shardion
+Shatterbrain
 d-shaun
 gbytegear
 yangsheng6810
@@ -3522,6 +3529,7 @@ svensis
 zephyyy
 sve-kai-itmo
 svi0105
+Sviat
 svinerus
 Megal
 Swich1987
@@ -3781,6 +3789,7 @@ vinniec
 nikbott
 onlyvip
 ciubotaru
+richard-undex
 Varrkan82
 VitaliyBreslavskyi
 vitalif
@@ -3862,6 +3871,7 @@ Mereng
 Subb98
 Snawoot
 kennydzzze
+varpihovsky
 vshkola
 vvrein
 crypto-universe
