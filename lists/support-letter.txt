@@ -420,6 +420,7 @@ AndreyDar
 darecu
 AndreyErmak
 kambala-decapitator
+roaldiopi
 scellige
 Kabanets
 karol11
@@ -689,6 +690,7 @@ BigmenPixel0
 bigshans
 volatileColors
 gingerhot
+binslash
 bioex
 birdflu
 birdofprey
@@ -1894,6 +1896,7 @@ shackra
 Soldii
 jsblanco
 jorisrietveld
+kszosze
 jose423
 josecho
 Tulon
@@ -1987,6 +1990,7 @@ ks-st
 kinuxroot
 Hiyorimi
 gopiandcode
+GenaTheCrocodile
 Keroosha
 phekd94
 pmvd
@@ -2076,6 +2080,7 @@ krzysztofciepka
 kpawlicki
 ks1322
 ksa678491784
+KseandI
 kssytsrk
 Kujivunia
 MartellX
@@ -2561,6 +2566,7 @@ MSS00
 mrlinqu
 Mr0maks
 MrA1ex
+MrBrooks82
 MrCapone
 MrOnlineCoder
 MrSorcus
@@ -2878,6 +2884,7 @@ KnoP-01
 ironicgitposting
 Pat-1337
 Eidwood
+ptallada
 beckerpaul
 auxo86
 Freeloop1642
@@ -2951,6 +2958,7 @@ petr-akhlamov
 User330639
 streltcov
 petrvelicka
+krutoo
 phobot
 Phate6660
 phath0m
@@ -3984,6 +3992,7 @@ coldnew
 Yeroha
 yessiest
 xab3r
+ZzEeKkAa
 yhaenggi
 yhsb2k
 yihuajack
@@ -4050,6 +4059,7 @@ AttackHelicopter
 zerobugdebug
 X1Zeth2X
 MrNocole
+drradio
 lczch
 llcc
 zhenruyan
@@ -4116,6 +4126,7 @@ xyz-man
 IlyaIndigo
 De-Luxis
 codefather-labs
+GoooV
 sergo1217
 erthink
 lilyalitvyak
