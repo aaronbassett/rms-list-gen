@@ -257,6 +257,7 @@ alanubi
 agerasev
 BRbIS
 AnimusPEXUS
+AIgin
 Morgan-iv
 alex-karev
 Shimuuar
@@ -2348,6 +2349,7 @@ Max-Kox
 max-makeichik
 mx256
 Markeli
+biggus-dickus
 zabbal
 lelgaunt
 maxwase
@@ -2447,6 +2449,7 @@ Zlopez
 michalszymura
 michalwidera
 traqpl
+MoltenCoreDev
 michealzh
 ubck93
 oldunwise
@@ -3774,6 +3777,7 @@ vhns
 veevyo
 VladimirKempik
 VL86f
+ZeroVlad
 manayardmen
 RealFeorache
 wowinter13
