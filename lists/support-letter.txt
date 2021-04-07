@@ -1059,6 +1059,7 @@ torwalds
 DerErde
 nrndda
 ManiacGeek
+destator
 d3usw4re
 Deuxis
 devakker
@@ -1099,6 +1100,7 @@ CmShepard
 dtcyganok
 dmitriitux
 zawodskoj
+czarkoff
 azraerl
 bakhtiyarov
 0x0000-dot-ru
@@ -1349,6 +1351,7 @@ NightEugene
 jaremko
 01012
 EugenePisotsky
+eugenik20
 eugenik2
 EugenioRJ
 ulrickno94
@@ -3616,6 +3619,7 @@ sudodoas
 nuisanthon
 suika
 Cyxapic
+0x00dec0de
 me00001
 suleymanfatih
 ghsable
