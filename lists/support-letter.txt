@@ -396,7 +396,6 @@ faraday-m
 anri-vin
 EndrII
 basilean
-basilean
 AndresGroselj
 x13enos
 zayka
@@ -1065,6 +1064,7 @@ devakker
 DevElonCoin
 devnulldevzero
 DamieFC
+dgs28iun
 guptadd
 tuhaihe
 dic1911
@@ -1858,6 +1858,7 @@ New-Phoenix
 ioluas
 jahway603
 LdBeth
+jakem72360
 jakobnissen
 jirutka
 BirDt
@@ -2017,7 +2018,6 @@ KarelWintersky
 kapehh-karen
 Karl255
 karmich
-UN5P0K3N
 UN5P0K3N
 IbarakiKasen
 dergobi
@@ -2927,6 +2927,7 @@ opennota
 bitcoin-software
 oresdev
 OrfeasLitos
+orgadm
 0rhan
 Lip4ik
 orin220444
@@ -3340,6 +3341,7 @@ satyrnhub
 saucylegs
 sskras
 SavaLione
+ArseniySavin
 SavKS
 saydus
 sbadux
@@ -3727,6 +3729,7 @@ smrb
 tomkonidas
 ethician
 tomasji
+tomnor
 tmszi
 spect88
 TomoeMami
@@ -4242,12 +4245,14 @@ yeolahim
 lksj
 drmtmych
 EmptiedSoul
+redkraken
 sonikku42ru
 alefbragin
 Am0k-GIT
 valmat
 wslvf
 BillDoorAndBinky
+dvapan
 Dmitry450
 dmitryvakulenko
 pr4gmat1q
@@ -4270,6 +4275,7 @@ hamer13
 korkin-mv
 alex134420
 mooo5e
+Dimon91
 NikolayXHD
 nikolai-kudriavtsev
 narrnika
