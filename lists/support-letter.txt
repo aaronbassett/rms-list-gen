@@ -710,6 +710,7 @@ Bert-Proesmans
 zwiebert
 betamax96
 BeyondMagic
+vezone
 big-flai
 BigmenPixel0
 bigshans
@@ -2641,6 +2642,7 @@ MrBrooks82
 MrCapone
 mrjaxi
 MrOnlineCoder
+mrquaketotheworld
 MrSorcus
 mrThe
 mstislavm
