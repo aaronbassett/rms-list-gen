@@ -870,7 +870,6 @@ crkvt
 CrazyAlex25
 CrazyPython
 CrazySiberianScientist
-Crickets-Studio
 cristeigabriel
 cryofrost
 cmd410
@@ -1213,6 +1212,7 @@ duzenko
 DvashVistrame
 dvissert
 dydzio0614
+Fen0day
 dzach
 Total-Kom
 lenchevskii
