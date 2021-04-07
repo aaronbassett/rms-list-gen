@@ -2105,6 +2105,7 @@ kinazarov
 pastk
 konstantin-popov
 grobza
+linux0uid
 skvav
 tenzink
 KonstantinTolstoy
@@ -2145,6 +2146,7 @@ kiyotaka4946g
 kurth4cker
 kuvamdazeus
 SergeKu
+Niten01
 Kvetchd
 kyak
 Kyhze
@@ -2531,6 +2533,7 @@ Midou36O
 Midek
 midyukov-anton
 FoxNeo
+migueldeblas
 odCat
 mihairusu
 rue-ryuzaki
@@ -3985,6 +3988,7 @@ slvn1shh
 ceoofretards
 asrelo
 trendseeker
+Vyollet
 imme-emosol
 w316525096
 Wafelack
