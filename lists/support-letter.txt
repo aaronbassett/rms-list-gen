@@ -583,7 +583,6 @@ arionrefat
 aritra1911
 macbury
 arkandas
-arm-github
 ArmandRathgeb
 772
 arnavbhatt288
