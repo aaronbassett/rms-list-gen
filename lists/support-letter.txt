@@ -1569,6 +1569,7 @@ Maxdem28
 gekomad
 peppelinux
 gladcow
+Sectoid
 kolokolovg
 tmwstw7
 wheream17
@@ -2720,6 +2721,7 @@ nekohasekai
 nekonee
 nekovirus
 jupiter126
+nemofang
 NeonOverflow
 nepridumalnik
 Nerd0o0
@@ -3010,6 +3012,7 @@ hkarel
 paulusx
 pavel-kirienko
 s3rius
+klyonov
 SqrtMinusOne
 fancywriter
 pavel-krivanek
