@@ -966,6 +966,7 @@ soldtm
 dssup
 shad0w-jo4n
 poi519
+DDStyle
 murka
 Yardanico
 QazerLab
@@ -2091,6 +2092,7 @@ liamka
 jpyatachkov
 klukonin
 mashiro-tan
+Mascantosh
 LGHTNG
 sigseg5
 kirpichik
