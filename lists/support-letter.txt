@@ -128,6 +128,7 @@ aleferri
 MinimumLaw
 reactos573
 pitachx
+chykon
 erley
 alexflitcher1
 povargek
@@ -952,6 +953,7 @@ danhoffman699
 Daerandin
 ethosnetic
 cabinetto
+Alldrich
 0xSteeW
 TheCatster
 danielstp
