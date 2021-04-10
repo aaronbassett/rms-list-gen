@@ -1591,6 +1591,7 @@ gbertinetti
 i3ima
 ivanottantuno
 giovanni-orciuolo
+emacs-site
 Giperion
 gitdepierre
 GitGangGuy
@@ -2045,6 +2046,7 @@ jzwlqx
 jerome-jutteau
 mrdomino
 kageru
+KagurazakaNyaa
 tyranron
 CyB3RC0nN0R
 KaiserBarbarossa
