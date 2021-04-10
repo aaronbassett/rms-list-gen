@@ -280,6 +280,7 @@ mukovnin
 MurzNN
 Devoter
 dyb4hzvo
+QueenAleks
 alex-rass-88
 JustPieceOfMeat
 lorantalas
@@ -1011,6 +1012,7 @@ macterra
 AgentD
 cinch
 primarchstrelok
+dw
 Zer0-One
 vi-david
 sticks-stuff
@@ -2892,6 +2894,7 @@ mazznoer
 norbornen
 notsyncing12309
 NouvelleSystem
+LaneCools
 N-R-K
 nsklaus
 nuarknoir
@@ -3021,6 +3024,7 @@ pcav
 papaere
 paren-duren
 Parinz
+abiriadev
 parsnip42
 pas9x
 informatimago
@@ -3981,6 +3985,7 @@ ciubotaru
 richard-undex
 Varrkan82
 coolchevy
+WitalijBukatkin
 VitaliyBreslavskyi
 vitalif
 zeloras
