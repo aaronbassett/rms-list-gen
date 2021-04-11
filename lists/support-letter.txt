@@ -621,6 +621,7 @@ t3m8ch
 Knebergish
 saahriktu
 tarwirdur
+Simper007
 iharuspex
 d-helios
 pa23
@@ -704,6 +705,7 @@ Velesey
 debianed
 bgits
 BarryHuffman
+TheExplodingPixel
 Cloud11665
 haael
 poorpy
@@ -1485,6 +1487,7 @@ Firstbober
 fj-fj-fj
 bafometz
 Flamma
+FlaNya
 FledgeXu
 flexagoon
 floatn
