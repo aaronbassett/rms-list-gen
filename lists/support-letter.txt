@@ -434,6 +434,7 @@ andrey-podko
 AndrewPrzelucki
 bircoph
 AndrewSDFoster
+snw1
 0stiary
 andrewtimoshenko
 KislyMonk
@@ -739,6 +740,7 @@ betamax96
 BeyondMagic
 vezone
 big-flai
+BigEddyson
 BigmenPixel0
 bigshans
 volatileColors
