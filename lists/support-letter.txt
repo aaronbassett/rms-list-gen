@@ -1729,6 +1729,7 @@ hresh
 HugoFlorentino
 hugollopes
 hugoluiz
+hui-zheng
 bamboovir
 huipvandenende
 hwulfmeyer
@@ -1958,6 +1959,7 @@ L-M-Sherlock
 darkermatter
 notarealdeveloper
 westial
+javbit
 JavDomGom
 je-vv
 ndsrf
@@ -3198,6 +3200,7 @@ PowderLinux
 PowerLay
 powpingdone
 pozitp
+pragmatwice
 prakash2033
 priuatus
 problemoo
