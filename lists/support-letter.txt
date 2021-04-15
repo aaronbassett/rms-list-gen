@@ -1292,6 +1292,7 @@ DvashVistrame
 dvissert
 dydzio0614
 Fen0day
+swathe
 dzach
 Total-Kom
 lenchevskii
@@ -2219,6 +2220,7 @@ KonstantinTolstoy
 KottV
 moncruist
 Riewell
+kon14
 KopiKonfig
 koplenov
 Wirena
@@ -2545,6 +2547,7 @@ Droplech
 Jovvik
 mrapplexz
 yozhsh
+MaximBoguk
 maxd
 myemuk
 moeryomenko
@@ -3054,6 +3057,7 @@ orin220444
 orivej
 orothorn
 TheSilkky
+keyboardsmash
 jangir-dev
 wine
 ossimalvin
