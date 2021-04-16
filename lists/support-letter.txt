@@ -230,6 +230,7 @@ slalik
 alex-voronin
 dereference23
 zhak
+payl0adK
 jukov
 user318
 Alex-Enginix
@@ -1635,6 +1636,7 @@ Gior26
 gbertinetti
 i3ima
 ivanottantuno
+gmondo
 giovanni-orciuolo
 emacs-site
 Giperion
