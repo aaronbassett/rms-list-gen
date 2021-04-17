@@ -2800,6 +2800,7 @@ mutse
 mwguy
 myisaak
 mlytvyn80
+misa-g
 ToxRGB
 verbalius
 airpwnz
@@ -3673,6 +3674,7 @@ ghua
 swardman
 SimonTrushkin
 simone-cominato
+sinani
 Sinofine
 BratSinot
 sirakai-pc
