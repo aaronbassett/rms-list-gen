@@ -3432,6 +3432,7 @@ RunThem
 zetachan17
 RushingAlien
 DasRegal
+Nixgui
 ruslangajiev
 ruslangrimov
 irus
@@ -3691,6 +3692,7 @@ skeletonium
 SkiF12
 Skilvingr
 skrimix
+slavamod
 Slava096
 SleepingNewton
 sleeply4cat
