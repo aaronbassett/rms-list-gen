@@ -2569,6 +2569,7 @@ specialtactics
 focus-cst
 mxpaul
 tatapbl4
+basemax
 MaxCorreia
 dmitrmax
 mxseev
