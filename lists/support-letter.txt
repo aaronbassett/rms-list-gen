@@ -35,6 +35,7 @@ ademaro
 ReanSchwarzer1
 beucismis
 LLLida
+AdisonCavani
 GNUxeava
 Admiral124
 AdrianColaianni
@@ -2778,6 +2779,7 @@ mintsuki
 majkinetor
 macomarivas
 miraneko
+mrodozov
 KaiserSoft
 Mirokot
 mmirolim
@@ -3151,6 +3153,7 @@ pacifastacus
 Palmay
 JJPandari
 pankinams
+panoplied
 funktionzero
 pcav
 papaere
@@ -3418,6 +3421,7 @@ sildur
 mileschet
 finwo
 rgson
+rota-make
 RockyBukake
 rjgatti
 lbs-rodrigo
