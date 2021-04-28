@@ -254,6 +254,7 @@ tabuna
 Benya9669
 10606
 fluttr
+tonal
 aoleynik812
 LazyWire
 chinarulezzz
@@ -280,6 +281,7 @@ AlexElizard
 keir-ru
 skobkin
 leha-bot
+Tordan
 alanubi
 agerasev
 BRbIS
