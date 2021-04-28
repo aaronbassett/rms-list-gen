@@ -221,10 +221,12 @@ AlexVRud
 Raf2k
 swalex
 schreiberstein
+Gordon01
 saaivs
 Rerium
 smysloff
 speshuric
+astrizhachuk
 asukharev
 trufanov-nok
 MrChaos1993
@@ -1182,6 +1184,7 @@ dmgk
 freehck
 Kakadu
 dmitriiweb
+Disimasa
 CmShepard
 dtcyganok
 dmitriitux
@@ -1453,6 +1456,7 @@ espdev
 sobolevbel
 nergal-perm
 NightEugene
+eJuke
 jaremko
 01012
 EugenePisotsky
@@ -1865,6 +1869,7 @@ igiunknown
 iivankin
 iKaSeRo
 ikidd
+ishirshov
 istudyatuni
 imlnn
 tihilv
@@ -2788,6 +2793,7 @@ shanechko
 miladblg
 milanandreew
 Milansuman
+milesgranger
 mmirate
 SmellyN3rd
 minhajsixbyte
@@ -3509,6 +3515,7 @@ ruslangajiev
 ruslangrimov
 irus
 ri-gilfanov
+PowercoderJr
 folibis
 shitpoet
 ruslanpetrov
