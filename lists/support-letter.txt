@@ -287,6 +287,7 @@ AIgin
 Morgan-iv
 alex-karev
 Shimuuar
+alklimenko
 zyzier
 axet
 allikhachev
@@ -653,6 +654,7 @@ Sundow
 t3m8ch
 Knebergish
 saahriktu
+ArKuznetsov
 tarwirdur
 Simper007
 iharuspex
@@ -1278,6 +1280,7 @@ ku4in
 dmlanplace
 graahnul-grom
 iscultas
+kazanzhy
 DmytrMelnyk
 piskund
 zen-tools
@@ -1953,6 +1956,7 @@ GNUKalashnikov
 ikapelyukhin
 ikayusov
 kkmzero
+kvarts
 zaebokkunwow
 KozakIvan
 rndtrash
@@ -2651,6 +2655,7 @@ maxnosib
 maxsimych
 Croquant
 maxp779
+theshadowco
 Maximumtix
 maya4606
 mayconantonio
@@ -4397,6 +4402,7 @@ longyap
 yarda
 cnsr
 untainsYD
+yfedoruk
 jsisaev1
 ahahnmys
 yarisx
